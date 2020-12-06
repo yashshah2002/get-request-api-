@@ -29,5 +29,6 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
         run: |
+          run : add other actions to build and deploy because it is the multiply the deployment 
           echo Add other actions to build,
           echo test, and deploy your project.
