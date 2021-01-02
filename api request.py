@@ -11,7 +11,7 @@ on:
     branches: [ main ]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
+jobs: not there 
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
